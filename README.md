@@ -28,7 +28,7 @@
 이미지
 
 <h2> 5. ERD </h2>
-이미지
+![캡처](https://github.com/kimdnrlf/jakjeon/assets/150312612/4645c9c9-01d2-4b22-a7ad-b52e71356109)
 
 <h2> 6. 기능 구현 </h2>
 이미지
